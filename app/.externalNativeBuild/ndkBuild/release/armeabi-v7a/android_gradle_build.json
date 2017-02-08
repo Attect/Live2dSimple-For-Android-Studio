@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Android.mk",
+    "/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/home/attect/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "libraries": {
+    "Live2DSimple-release-armeabi-v7a": {
+      "buildCommand": "/home/attect/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/lib /home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libLive2DSimple.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "Live2DSimple",
+      "files": [
+        {
+          "src": "/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Live2DSimple.cpp",
+          "flags": "\"-gcc-toolchain\" \"/home/attect/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-I/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/../jni\" \"-I/home/attect/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-I/home/attect/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include\" \"-I/home/attect/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-I/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-DL2D_TARGET_ANDROID_ES2\" \"-frtti\" \"-std\u003dc++11\" \"-fsigned-char\" \"-isystem\" \"/home/attect/Android/Sdk/ndk-bundle/platforms/android-14/arch-arm/usr/include\""
+        }
+      ],
+      "output": "/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libLive2DSimple.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cppCompilerExecutable": "/home/attect/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

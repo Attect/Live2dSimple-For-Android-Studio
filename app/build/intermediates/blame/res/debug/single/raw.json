@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/res/merged/debug/raw/texture_02.png",
+        "source": "/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/res/raw/texture_02.png"
+    },
+    {
+        "merged": "/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/res/merged/debug/raw/texture_01.png",
+        "source": "/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/res/raw/texture_01.png"
+    },
+    {
+        "merged": "/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/res/merged/debug/raw/texture_00.png",
+        "source": "/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/res/raw/texture_00.png"
+    },
+    {
+        "merged": "/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/res/merged/debug/raw/haru.moc",
+        "source": "/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/res/raw/haru.moc"
+    }
+]

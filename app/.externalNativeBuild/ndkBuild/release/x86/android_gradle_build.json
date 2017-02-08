@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Android.mk",
+    "/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/home/attect/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "libraries": {
+    "Live2DSimple-release-x86": {
+      "buildCommand": "/home/attect/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/lib /home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/obj/local/x86/libLive2DSimple.so",
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "Live2DSimple",
+      "files": [
+        {
+          "src": "/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/Live2DSimple.cpp",
+          "flags": "\"-gcc-toolchain\" \"/home/attect/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/linux-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O2\" \"-DNDEBUG\" \"-I/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni/../jni\" \"-I/home/attect/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-I/home/attect/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include\" \"-I/home/attect/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-I/home/attect/AndroidStudioProjects/Live2dSimple/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-DL2D_TARGET_ANDROID_ES2\" \"-frtti\" \"-std\u003dc++11\" \"-fsigned-char\" \"-isystem\" \"/home/attect/Android/Sdk/ndk-bundle/platforms/android-14/arch-x86/usr/include\""
+        }
+      ],
+      "output": "/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/ndkBuild/release/obj/local/x86/libLive2DSimple.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86": {
+      "cppCompilerExecutable": "/home/attect/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

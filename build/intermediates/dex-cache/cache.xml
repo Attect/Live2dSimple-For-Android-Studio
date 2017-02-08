@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_b1532476cb1cd8fc2ec320045c9d42d491ad9adb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_f2ec572e0606480dced0ce411b6441f8bbac8bc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attect/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_395e5b864e45b9e2c614aa8768ee1a5f515f31b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_5b910e7d4418b97097581deb02694fdaf56652fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_cdfd1c700cd663e7207e355e1b27d8eed515c401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_d850aea386452a3764d79f2a64c7d0559604a03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/attect/AndroidStudioProjects/Live2dSimple/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_75d1a1e2c7b36ef406b656754f41db9f05c6f462.jar" />
+    </item>
+
+</items>
