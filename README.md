@@ -7,9 +7,10 @@
 
 那么请克隆此项目即可搞定
 
-
+<br>
 
 当前版本:
+
 **Live 2D SDK: OpenGL 2.1.05_1**
 
 **Android Studio:2.2.3**
